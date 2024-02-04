@@ -5,9 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aturabi3141" alt="aturabi3141" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ayetullahturabb" target="blank"><img src="https://img.shields.io/twitter/follow/@ayetullahturabb?logo=twitter&style=for-the-badge" alt="@ayetullahturabb" /></a> </p>
 
-- 🔭 I’m currently working on **DataSec**
+- 🔭 I’m currently working on **TrigoGrafi**
+
+- 🌱 I’m currently learning **Flutter, Bıg Data, Machine Learning**
+
+- 👯 I’m looking to collaborate on **Fu-Ga Games**
+
+- 🤝 I’m looking for help with **AI Project**
+
+- 💬 Ask me about **Cyber Security**
+
+- 📫 How to reach me **ayetullahturabi@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -15,9 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/@aturabi3141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@aturabi3141" height="30" width="40" /></a>
+<a href="https://twitter.com/@ayetullahturabb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayetullahturabb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayetullah-turabi-konuklu-183654217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayetullah-turabi-konuklu-183654217/" height="30" width="40" /></a>
+<a href="https://instagram.com/@aturabiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aturabiii" height="30" width="40" /></a>
 <a href="https://medium.com/@ayetullahturabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayetullahturabi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxffs2esrq6go_not3jpx_q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxffs2esrq6go_not3jpx_q" height="30" width="40" /></a>
+<a href="https://discord.gg/@iamblackarch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@iamblackarch" height="30" width="40" /></a>
 <a href="/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="." height="30" width="40" /></a>
 </p>
 
@@ -29,3 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aturabi3141&show_icons=true&locale=en" alt="aturabi3141" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aturabi3141&" alt="aturabi3141" /></p>
+
