@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayetullah Turabi</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Game Developer and Cyber Security Researcher from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aturabi3141&label=Profile%20views&color=0e75b6&style=flat" alt="aturabi3141" /> </p>
 
